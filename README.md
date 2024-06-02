@@ -4,33 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 20px;
-      background-color: #f4f4f4;
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-    pre {
-      background-color: #eee;
-      padding: 10px;
-      border-radius: 5px;
-    }
-    code {
-      font-family: Consolas, "Courier New", monospace;
-    }
-    a {
-      color: #1e88e5;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
+  
 </head>
 <body>
   <h1>Brand Performance Comparison Project</h1>
@@ -95,11 +69,5 @@ python analysis.py
     <li>Identify top-performing products in each category</li>
     <li>Compare brand performance over time</li>
   </ul>
-
-  <h2 id="contributing">Contributing</h2>
-  <p>Contributions are welcome! Please read the <a href="CONTRIBUTING.md">contributing guidelines</a> for more information.</p>
-
-  <h2 id="license">License</h2>
-  <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
 </body>
 </html>
